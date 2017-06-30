@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/sg/Code/CodeCore/LiveDemos/2017/April/timer/node_modules/react-native/Libraries/Text/RCTTextFieldManager.m \
+  /Users/sg/Code/CodeCore/LiveDemos/2017/April/timer/node_modules/react-native/Libraries/Text/RCTTextFieldManager.h \
+  /Users/sg/Code/CodeCore/LiveDemos/2017/April/timer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/sg/Code/CodeCore/LiveDemos/2017/April/timer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/sg/Code/CodeCore/LiveDemos/2017/April/timer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/sg/Code/CodeCore/LiveDemos/2017/April/timer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/sg/Code/CodeCore/LiveDemos/2017/April/timer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/sg/Code/CodeCore/LiveDemos/2017/April/timer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/sg/Code/CodeCore/LiveDemos/2017/April/timer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/sg/Code/CodeCore/LiveDemos/2017/April/timer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/sg/Code/CodeCore/LiveDemos/2017/April/timer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/sg/Code/CodeCore/LiveDemos/2017/April/timer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/sg/Code/CodeCore/LiveDemos/2017/April/timer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/sg/Code/CodeCore/LiveDemos/2017/April/timer/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/sg/Code/CodeCore/LiveDemos/2017/April/timer/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/sg/Code/CodeCore/LiveDemos/2017/April/timer/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/sg/Code/CodeCore/LiveDemos/2017/April/timer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/sg/Code/CodeCore/LiveDemos/2017/April/timer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/sg/Code/CodeCore/LiveDemos/2017/April/timer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/sg/Code/CodeCore/LiveDemos/2017/April/timer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/sg/Code/CodeCore/LiveDemos/2017/April/timer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/sg/Code/CodeCore/LiveDemos/2017/April/timer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/sg/Code/CodeCore/LiveDemos/2017/April/timer/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/sg/Code/CodeCore/LiveDemos/2017/April/timer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/sg/Code/CodeCore/LiveDemos/2017/April/timer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFont.h \
+  /Users/sg/Code/CodeCore/LiveDemos/2017/April/timer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView+Layout.h \
+  /Users/sg/Code/CodeCore/LiveDemos/2017/April/timer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/sg/Code/CodeCore/LiveDemos/2017/April/timer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/sg/Code/CodeCore/LiveDemos/2017/April/timer/node_modules/react-native/Libraries/Text/RCTConvert+Text.h \
+  /Users/sg/Code/CodeCore/LiveDemos/2017/April/timer/node_modules/react-native/Libraries/Text/RCTShadowTextField.h \
+  /Users/sg/Code/CodeCore/LiveDemos/2017/April/timer/node_modules/react-native/Libraries/Text/RCTTextField.h
